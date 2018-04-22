@@ -1,0 +1,58 @@
+2018-04-04T20:43:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-04T21:49:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-05T12:03:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-05T13:42:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-cart-tab\includes\cart-tab-templates.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_tab_button('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-cart-tab\includes\cart-tab-templates.php(57): do_action('wcct_before_car...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_tab('')
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(2630): do_action('wp_footer')
+#8 C:\xampp\htdocs\wordpress\wp-content\plugin
+
+2018-04-05T17:38:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-cart-tab\includes\cart-tab-templates.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_tab_button('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-cart-tab\includes\cart-tab-templates.php(57): do_action('wcct_before_car...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_tab('')
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(2630): do_action('wp_footer')
+#8 C:\xampp\htdocs\wordpress\wp-content\plugin
+
+2018-04-05T17:39:39+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-cart-tab\includes\cart-tab-templates.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_tab_button('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-cart-tab\includes\cart-tab-templates.php(57): do_action('wcct_before_car...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_tab('')
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(2630): do_action('wp_footer')
+#8 C:\xampp\htdocs\wordpress\wp-content\plugin
+
+2018-04-05T21:49:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-10T18:00:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-10T21:50:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-13T13:13:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-13T22:39:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-17T19:47:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-18T21:05:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-22T19:31:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
